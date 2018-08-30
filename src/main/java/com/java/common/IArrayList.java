@@ -6,4 +6,6 @@ public interface IArrayList {
 	public void createArrayListFromCollectionExample();
 	public void accessElementsFromArrayListExample();
 	public void removeElementsFromArrayListExample();
+	public void iterateOverArrayListExample();
+	public void searchElementsInArrayListExample();
 }
