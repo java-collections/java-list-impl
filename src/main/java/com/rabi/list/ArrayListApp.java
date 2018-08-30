@@ -45,7 +45,8 @@ public class ArrayListApp implements IArrayList{
 	@Override
 	public void removeElementsFromArrayListExample() {
 		// TODO Auto-generated method stub
-		
+		// added blank body
+		// developers will write own code 
 	}
 	
 	
