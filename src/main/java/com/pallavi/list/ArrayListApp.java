@@ -9,6 +9,8 @@ public class ArrayListApp implements IArrayList{
 	public static void main(String[] args) {
 		IArrayList aa=new ArrayListApp();
 		aa.createArrayListExample();
+		aa.accessElementsFromArrayListExample();
+		aa.createArrayListFromCollectionExample();
 		
 	}
 
