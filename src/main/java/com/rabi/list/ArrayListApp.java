@@ -16,7 +16,7 @@ public class ArrayListApp implements IArrayList{
 	
 	public  void createArrayListExample()
 	{
-		List<String> animals=new ArrayList<>();
+		List<String> animals=new ArrayList<String>();
 		animals.add("Lion");
         animals.add("Tiger");
         animals.add("Cat");
