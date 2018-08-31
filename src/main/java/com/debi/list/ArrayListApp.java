@@ -165,7 +165,7 @@ public class ArrayListApp implements IArrayList {
 
 	}
 
-	spublic void searchElementsInArrayListExample() {
+	public void searchElementsInArrayListExample() {
 		List<String> brandName = new ArrayList<>();
 		brandName.add("Allensoly");
 		brandName.add("LP");
