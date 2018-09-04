@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.function.Predicate;
 
 import com.java.common.IArrayList;
-import com.sun.xml.internal.bind.v2.runtime.reflect.ListIterator;
 
 public class ArrayListApp implements IArrayList {
 	public static void main(String[] args) {
