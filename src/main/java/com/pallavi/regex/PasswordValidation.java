@@ -1,4 +1,4 @@
-package com.pallavi.list;
+package com.pallavi.regex;
 
 public class PasswordValidation {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.pallavi.list;
+package com.pallavi.regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -18,10 +18,7 @@ class PasswordValidator {
 
 	public void passwordValidation(String name, String pass) {
 		boolean valid = true;
-		if(name.length()==0)
-		{
-			System.out.println("User name can't be empty");
-		}
+		
 		if (pass.length() > 20 && pass.length() < 8) {
 			System.out.println("The password length must be greater than 8 and less than 20");
 			valid = false;
